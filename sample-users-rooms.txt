@@ -1,0 +1,24 @@
+ChatLite Sample Data
+====================
+
+Sample Users
+------------
+student1
+student2
+sally
+saif
+bana
+sadeel
+
+Sample Rooms
+------------
+general
+networks
+java
+project-team
+
+Recommended Demo Pair
+---------------------
+User A: student1
+User B: student2
+Room: general

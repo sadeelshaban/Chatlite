@@ -1,0 +1,11 @@
+Conversation between osama and akram
+
+[2025-11-10 12:57:29] akram -> osama | salam
+hello
+
+[2025-11-10 12:57:29] akram -> osama | net
+hello hello hello
+
+[2025-11-10 12:57:29] akram -> osama | qqqqq
+dsffvssvdvsvsdv
+

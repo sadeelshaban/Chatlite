@@ -1,0 +1,2 @@
+[2026-04-06 22:40:05] [INFO] UDP_INIT port=5001
+[2026-04-06 22:40:05] [INFO] SERVER_START tcpPort=2525 udpPort=5001 maxMessageSize=500 cleanupDays=30
